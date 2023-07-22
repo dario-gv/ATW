@@ -1,4 +1,4 @@
-# Atalho Temas Windows
+# ATW - Atalho Temas Windows
 
 Ficheiro .bat e instruções sobre como trocar rapidamente os temas no W,indows
 
