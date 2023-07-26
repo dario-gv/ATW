@@ -9,3 +9,6 @@ Ficheiro .bat e instruções sobre como trocar rapidamente os temas no W,indows
 4. Renomear o ficheiro .bat para o nome do tema
 5. Criar um atalho para o ficheiro .bat
 6. Colocar o atalho dentro da pasta **%USERPROFILE%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs** para aparecer no Menu Iniciar.
+
+
+**NOTA : Atual este método só funciona com Windows 10 e ainda não foi testado no Windows 11**
